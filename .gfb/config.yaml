@@ -1,0 +1,11 @@
+excel:
+  output_mode: named_ranges
+  named_range_prefixes:
+  - OUT_
+  - OUTPUT_
+  explicit_cells: []
+  ignore_sheets: []
+  ignore_named_ranges: []
+  materiality_thresholds:
+    absolute_epsilon: 0.0
+    relative_epsilon: 0.0
